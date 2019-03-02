@@ -1,7 +1,50 @@
 h1{
-    color: rgb(226, 17, 17);
+    color: white;
+margin-left: 450px;
+font-family: 'Dancing Script', cursive;
+font-size: 50px;
 }
 img{
-    width: 200px;
+    width: 300px;
     height: 200px;
 }
+#firstRow{
+    display: flex; 
+    margin:auto;
+}
+.imgBut{
+    border: 20px groove rgba(170,95,89,0.95);
+    margin-left: 190px;
+    display: flex;
+
+}
+#secondRow{
+    display: flex; 
+    margin:auto;
+}
+.imgBut2{
+    border: 20px groove rgba(170,95,89,0.95);
+    margin-left: 190px;
+    display: flex;
+    margin-top: 100px;
+    
+}
+
+body{
+    background-image: url(https://i.stack.imgur.com/jGlzr.png)
+}
+#Grasslands{
+    margin-left: 270px;
+}
+
+#btn1{
+    border-radius: 25px;
+
+}
+
+
+.imgC{
+    
+}
+
+    
